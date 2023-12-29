@@ -61,6 +61,10 @@ Mathematical aparatus ranges from elementary algebra all the way to Markov chain
 
 Compilation of 1300 solved problems from mathematical olympiads with problem solving strategies. 
 
+### Selected Problems In Discrete Mathematics by G.P. Gavrilov
+
+Russian-style collection of problems in discrete mathematics. Due to selection of topics, this one could also fit under Computer Science. 
+
 ### A Collection of Problems on Complex Analysis (Dover Books on Mathematics) Revised ed. Edition by L. I. Volkovyskii, G. L. Lunts, I. G. Aramanovich 
 
 Russian-style book with problems in complex analysis. 
