@@ -1,33 +1,75 @@
 # Repository of Useful Books in Physics, Mathematics, and Computer Science
-This repository contains a selection of books, primarily problem collections, in the fields of physics, mathematics, and computer science.
 
-While this list is not exhaustive, the goal is to provide a minimal set of problems that will enhance the reader's problem-solving skills, both quantitatively and qualitatively. There are, of course, many other excellent books, but this list should suffice to elevate the reader to a high level of problem-solving proficiency.
+Welcome to this repository, where you'll find a carefully selected range of books, predominantly collections of problems, in physics, mathematics, and computer science.
+
+Problem-solving stands at the core of scientific and engineering expertise, serving as a testament to one's understanding of a subject. In choosing problem-solving materials, one must balance the risk of over-specialization against the breadth of knowledge. Focusing narrowly on a single area, like math Olympiad problems, can lead to overfitting — knowing all the tricks but struggling with novel problems. Conversely, spreading oneself too thin across multiple disciplines can lead to vast but shallow knowledge, hindering deep problem-solving skills. Therefore, a balanced mix of brainteasers, mathematics, computer science, and physics is ideal. This combination provides the necessary depth and breadth, as both physics and computer science are deeply rooted in mathematical principles and closely tied to the physical world. Mathematics enriches this blend with its inherent problem-based nature, while brainteasers and logical puzzles sharpen out-of-the-box thinking, creating a well-rounded problem solver.
+
+Though not exhaustive, this list aims to provide a foundational set of problems to significantly enhance the reader's problem-solving abilities, both quantitatively and qualitatively.
+
+Different styles of problem-solving are represented in these books. Some adopt the "American style" — a fewer number of problems explored in great depth — while others follow the "Russian style," featuring a large array of challenging problems with succinct solutions. Both approaches have their merits: American style books hone the art of problem-solving, and once proficiency is achieved, Russian style books offer an excellent platform to test one's knowledge.
+
+## General
+
+The general category includes brainteasers, short math, and physics problems. These books typically require less advanced math but are nonetheless challenging, focusing on developing critical thinking rather than mere calculation.
+
+### Professor Povey's Perplexing Problems: Pre-University Physics and Maths Puzzles with Solutions by T. Povey
+
+This book demonstrates that advanced math isn't a prerequisite for challenging problems; the difficulty lies in conceptual understanding.
+
+### A Practical Guide To Quantitative Finance interviews by Xinfeng Zhou
+
+Quantitative finance interviews often feature brainteasers and challenging math problems, including combinatorics, probability, recursion, dynamic programming, and advanced topics like calculus. This book provides a comprehensive collection of such questions.
 
 ## Physics
-### Problems in General Physics by I.E. Irodov
-This book offers a large number of (partially) solved problems in general physics, covering topics such as kinematics, dynamics, electromagnetism, electric circuits, and thermodynamics.
 
-Mathematical prerequisites include mastery of algebra and trigonometry, along with a working knowledge of calculus and vectors.
+### Problems in General Physics by I.E. Irodov
+
+Covering a wide range of topics in general physics, this book offers numerous (partially) solved problems in areas like kinematics, dynamics, electromagnetism, electric circuits, and thermodynamics. Prerequisites include a strong foundation in algebra, trigonometry, and a working knowledge of calculus and vectors.
 
 ### Science For Everyone: Aptitude Test Problems In Physics by S.S. Krotov
-Similar to Irodov, this book is arguably mathematically easier but conceptually more challenging. It is a staple for students preparing for the International Physics Olympiad.
 
-### Exploring Classical Mechanics: A Collection of 350+ Solved Problems for Students, Lecturers, and Researchers by G.L. Kotin and V.G. Serbo
-This book covers problems in classical mechanics, with topics including Lagrangian mechanics, Hamiltonian mechanics, oscillations, and motion in a central potential.
-Mathematical prerequisites include calculus, differential equations, calculus of variations, vector calculus, and linear algebra.
+Similar to Irodov's work but arguably easier mathematically and more challenging conceptually. It's particularly beneficial for those preparing for the International Physics Olympiad.
+
+### Exploring Classical Mechanics: A Collection of 350+ Solved Problems by G.L. Kotin and V.G. Serbo
+
+This compilation delves into classical mechanics, covering Lagrangian mechanics, Hamiltonian mechanics, oscillations, and motion in central potentials. It requires knowledge of calculus, differential equations, the calculus of variations, vector calculus, and linear algebra.
 
 ### Problems in Electrodynamics by V.V. Batygin and I.N. Toptygin
-A collection of problems in electrodynamics, this book is challenging, and the solutions are quite concise. Proceed with caution.
-Prerequisites include expertise in vector and tensor calculus, as well as special functions.
 
-### Exploring Quantum Mechanics: A Collection of 700+ Solved Problems for Students, Lecturers, and Researchers by V. Galitski, B. Karnakov, V. Kogan, and V. Galitski Jr.
-Quantum mechanics is a notoriously difficult subject for two reasons. Firstly, it requires students to abandon classical intuitions about the world. For example, in quantum mechanics, the trajectory of a body doesn't make sense, and it postulates that at best we can know the probability distributions of physical quantities, rather than precise values. Secondly, due to the aforementioned conceptual difficulties, a more advanced mathematical apparatus was developed. This new apparatus involves the notion of Hilbert space, with the theory built using linear operators on this space. Further, advanced calculus is required, as well as mastery in classical mechanics and electromagnetism, to fully grasp the intricacies of the theory.
-This book is essential for anyone interested in understanding or conducting physics research. With over 700 solved problems, it helps readers become competent with the advanced mathematical apparatus and connect theory with experimental results.
+A challenging collection in electrodynamics, where the solutions are concise and require a deep understanding. Prerequisites include expertise in vector and tensor calculus, as well as special functions.
+
+### Exploring Quantum Mechanics: A Collection of 700+ Solved Problems by V. Galitski et al.
+
+This comprehensive guide to quantum mechanics challenges the reader to abandon classical intuitions. It necessitates advanced calculus, as well as a solid grounding in classical mechanics and electromagnetism, to navigate the complexities of Hilbert space and linear operators.
 
 ### Statistical Mechanics: An Advanced Course with Problems and Solutions by R. Kubo
-Statistical physics can be viewed in two ways. On one hand, it might be considered the least fundamental branch of physics, as it doesn't explain anything fundamental about the universe. On the other hand, it could be seen as the most fundamental, as it predicts the behavior of systems irrespective of the microscopic theory.
 
-Statistical mechanics is arguably the most challenging subject in physics for undergraduate students. It requires advanced knowledge of classical mechanics, electrodynamics, and quantum physics, along with a comfort in combinatorics and asymptotics.
+Statistical mechanics, a challenging field for undergraduates, bridges physics and information theory. It requires knowledge of classical mechanics, electrodynamics, quantum physics, combinatorics, and asymptotics. R. Kubo's collection comprehensively covers this topic.
 
-R. Kubo, a master of the subject, provides a collection of problems covering most of the topic.
+This concludes the physics section, with a note that more advanced topics like general relativity and quantum field theory, while not included here, are specialist areas requiring a deeper expertise.
+
+## Mathematics
+
+The mathematics section will follow, starting with a collection of dice problems:
+
+https://www.madandmoonly.com/doctormatt/mathematics/dice1.pdf
+
+This is a nice set of problems covering most elementary concepts in probability, statistics and counting. 
+Mathematical aparatus ranges from elementary algebra all the way to Markov chains so it is suitable for all levels.
+
+### Problem-Solving Strategies by A. Engel
+
+Compilation of 1300 solved problems from mathematical olympiads with problem solving strategies. 
+
+### A Collection of Problems on Complex Analysis (Dover Books on Mathematics) Revised ed. Edition by L. I. Volkovyskii, G. L. Lunts, I. G. Aramanovich 
+
+Russian-style book with problems in complex analysis. 
+
+## Computer Science:
+
+Comupter science problem solving is synonimous with programming.
+Learning how to code and solve these problems will hone ones abilities to think algorithmically as well as imporove one's mathematical knowledge, especially in areas of discrete mathematics. 
+
+Thankfully there is plethora of online resources for programming. The best one is still: http://usaco.org/index.php
+There are number of problems, ranging from simple algorithms all the way to dynanic programming and advanced data structures. 
 
