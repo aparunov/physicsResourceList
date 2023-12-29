@@ -65,11 +65,24 @@ Compilation of 1300 solved problems from mathematical olympiads with problem sol
 
 Russian-style book with problems in complex analysis. 
 
+### Pen & Paper Exercises in Machine Learning by Michael U. Gutmann
+https://arxiv.org/pdf/2206.13446.pdf
+
+This is a nice collection in problems from advanced mathematics (applied to machine learning). 
+It covers topics from linear algebra and multivariate calculus all the way to variational inference. 
+The problems are not challenging but it is still a nice addition to the list.
+
+### Mathematical Analysis: A collection of Problems by Tolaso J. Kos
+https://www.tolaso.com.gr/documents/A%20collection%20of%20problems%20in%20Analysis.pdf
+
+This is a bonus. This list contains rather challenging problems in mathematical analysis, there are no solutions but you can find them with a little bit of google-ing. 
+
 ## Computer Science:
 
 Comupter science problem solving is synonimous with programming.
 Learning how to code and solve these problems will hone ones abilities to think algorithmically as well as imporove one's mathematical knowledge, especially in areas of discrete mathematics. 
 
-Thankfully there is plethora of online resources for programming. The best one is still: http://usaco.org/index.php
+Thankfully there is plethora of online resources for programming. The best one is still: http://usaco.org/index.php . 
 There are number of problems, ranging from simple algorithms all the way to dynanic programming and advanced data structures. 
+
 
