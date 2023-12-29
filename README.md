@@ -3,7 +3,7 @@ This repository contains a selection of books, primarily problem collections, in
 
 While this list is not exhaustive, the goal is to provide a minimal set of problems that will enhance the reader's problem-solving skills, both quantitatively and qualitatively. There are, of course, many other excellent books, but this list should suffice to elevate the reader to a high level of problem-solving proficiency.
 
-### Physics
+# Physics
 ## Problems in General Physics by I.E. Irodov
 This book offers a large number of (partially) solved problems in general physics, covering topics such as kinematics, dynamics, electromagnetism, electric circuits, and thermodynamics.
 
