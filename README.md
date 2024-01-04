@@ -89,4 +89,6 @@ Learning how to code and solve these problems will hone ones abilities to think 
 Thankfully there is plethora of online resources for programming. The best one is still: http://usaco.org/index.php . 
 There are number of problems, ranging from simple algorithms all the way to dynanic programming and advanced data structures. 
 
+Next step: solve some of those using Haskell :) 
+
 
